@@ -1,7 +1,6 @@
 <h1 align="center">👩‍💻 Thavyne Ribeiro</h1>
 
 ##
-
 <!-- Estatísticas lado a lado -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
@@ -50,11 +49,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?label=&message=Discord&logo=discord&color=7289DA&logoColor=white&style=flat" height="25"/>
 </div>
-
-
-##
-
-##
 
 <!-- Contador de visitas -->
 <div align="center">
