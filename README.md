@@ -32,25 +32,25 @@
 </div>
 
 ##
-
 <h2 align="center">🌐 Social Media</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thavyne-kerolly-dias-ribeiro-ribeiro-055458341" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=flat" height="25" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=flat" height="25"/>
   </a>
   <a href="https://www.instagram.com/ribeiro_vyx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=flat" height="25" />
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=flat" height="25"/>
   </a>
   <a href="https://x.com/vyx_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=flat" height="25" />
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=flat" height="25"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=flat" height="25" />
+  <img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=flat" height="25"/>
   <a href="https://www.twitch.tv/vyx_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=flat" height="25" />
+    <img src="https://img.shields.io/static/v1?label=&message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=flat" height="25"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=flat" height="25" />
+  <img src="https://img.shields.io/static/v1?label=&message=Discord&logo=discord&color=7289DA&logoColor=white&style=flat" height="25"/>
 </div>
+
 
 ##
 
