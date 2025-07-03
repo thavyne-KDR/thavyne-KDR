@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Discord&logo=discord&color=7289DA&logoColor=white&style=flat" height="25"/>
 </div>
 
+
 <!-- Contador de visitas -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/thavyne-KDR/count.svg?" />
