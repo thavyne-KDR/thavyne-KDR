@@ -54,3 +54,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/thavyne-KDR/count.svg?" />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/thavyne-KDR/thavyne-KDR/output/snake.svg)
