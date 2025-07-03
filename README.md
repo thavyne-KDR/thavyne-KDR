@@ -1,6 +1,5 @@
 <h1 align="center">👩‍💻 Thavyne Ribeiro</h1>
 
-##
 <!-- Estatísticas lado a lado -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
