@@ -54,11 +54,6 @@
 
 ##
 
-<!-- Animação Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thavyne-KDR/thavyne-KDR/output/snake.svg" alt="Snake animation" />
-</div>
-
 ##
 
 <!-- Contador de visitas -->
